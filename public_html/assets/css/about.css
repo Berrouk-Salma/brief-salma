@@ -1,0 +1,16 @@
+.body_image_about{
+    background-image: url("../imgs/pexels-diva-28125073.jpg")
+}
+.align-items-center{
+    margin-top: 40px;
+    border: 1px solid;
+    border-radius: 20px;
+    padding: 20px;
+}
+.title_of_section_about{
+   color: rgb(255, 255, 255);
+   text-align: center;
+}
+.col_white{
+    color: white;
+}
